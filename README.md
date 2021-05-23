@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and MySQL
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on my journey of learning Python and MySQL
-- 📫 How to reach me my email: sparshsharma@hotmail.com
+- 📫 How to reach me: sparshsharma@hotmail.com
 
 <!---
 Sparshalot/Sparshalot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
